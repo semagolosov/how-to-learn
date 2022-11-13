@@ -1,3 +1,4 @@
+@import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/logo/logo.css);
@@ -8,7 +9,6 @@
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/rotation/rotation.css);
-@import url(../styles/normalize.css);
 
 
 /* ВТОРАЯ СТРАНИЦА */
@@ -18,7 +18,6 @@
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
-@import url(../blocks/two-columns/__paragraph/__no-margin/two-columns__paragraph__no-margin.css);
 
 
 /*ТРЕТЬЯ СТРАНИЦА*/
@@ -64,7 +63,7 @@
 
 
 /* techniques*/
-@import url(../blocks/techniques/cards/cards.css);
+@import url(../blocks/cards/cards.css);
 @import url(../blocks/techniques/cards/__item/cards__item.css);
 @import url(../blocks/techniques/techniques.css);
 @import url(../blocks/techniques/cards/__description/cards__description.css);
